@@ -6,6 +6,13 @@ Annotators: Simon Guriel, Silvia Guriel-Agiashvili & Nona Atanelov.
 
 
 ## Sources
-Verbs: Semi-automatically generated and partially verified by native speakers. Includes 21,054 forms in 118 tables from all the Georgian verbal classes.
+Verbs: includes 21,054 forms in 118 tables from all the Georgian verbal classes. Semi-automatically generated and verified by native speakers.
 
-Nouns and Adjectives: Wiktionary, unverified.
+Nouns and Adjectives: includes 1,805 adjective forms in 95 tables, and 69,236 noun forms in 3,644 tables. Crawled from Wiktionary, unverified.
+
+
+## Language Specifics
+
+LGSPEC1 - Adverbial case
+
+LGSPEC2 - Archaic Plural
