@@ -16,3 +16,19 @@ Nouns and Adjectives: includes 1,805 adjective forms in 95 tables, and 69,236 no
 LGSPEC1 - Adverbial case
 
 LGSPEC2 - Archaic Plural
+
+## References
+```
+@inproceedings{guriel-etal-2022-morphological,
+    title = "Morphological Reinflection with Multiple Arguments: An Extended Annotation schema and a Georgian Case Study",
+    author = "Guriel, David  and
+      Goldman, Omer  and
+      Tsarfaty, Reut",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+}
+
+```
